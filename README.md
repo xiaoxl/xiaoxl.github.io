@@ -7,6 +7,7 @@
 3. [Machine Learning 2022 Fall](https://xiaoxl.github.io/ml22)
 4. [Machine Learning 2023 Fall](https://xiaoxl.github.io/ml23)
 5. [Bayesian Statistics notes](https://xiaoxl.github.io/bayesian/)
+6. [Collection of Datasets](https://xiaoxl.github.io/Datasets/)
 
 ## Apps
 
