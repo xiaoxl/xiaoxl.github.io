@@ -3,7 +3,9 @@
 ## Notes
 
 1. [Programming language for Data Science 2022 Fall](https://xiaoxl.github.io/pr22)
-2. [Machine Learning 2022 Fall](https://xiaoxl.github.io/ml22)
+2. [Programming language for Data Science 2023 Spring](https://xiaoxl.github.io/pr23)
+3. [Machine Learning 2022 Fall](https://xiaoxl.github.io/ml22)
+4. [Machine Learning 2023 Fall](https://xiaoxl.github.io/ml23)
 
 
 ## Apps
