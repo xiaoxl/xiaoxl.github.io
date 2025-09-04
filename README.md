@@ -12,3 +12,4 @@
 ## Apps
 
 1. [Reduced Row Echelon forms of Matrices Computational Tool](https://xiaoxl-rref-rref-0p6ebo.streamlitapp.com/)
+2. [Class Schedule Processor](https://atu-maps-class-schedule.streamlit.app/)
