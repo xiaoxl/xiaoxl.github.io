@@ -13,4 +13,4 @@
 
 1. [Reduced Row Echelon forms of Matrices Computational Tool](https://xiaoxl-rref-rref-0p6ebo.streamlitapp.com/)
 2. [Class Schedule Processor](https://atu-maps-class-schedule.streamlit.app/)
-3. [Math Problems Generator](https://suanshu.streamlit.app/)
+3. [Math Problem Generator](https://suanshu.streamlit.app/)
