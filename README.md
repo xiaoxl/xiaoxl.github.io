@@ -13,5 +13,6 @@
 ## Apps
 
 1. [Reduced Row Echelon forms of Matrices Computational Tool](https://xiaoxl-rref-rref-0p6ebo.streamlitapp.com/)
-2. [Class Schedule Processor](https://atu-maps-class-schedule.streamlit.app/)
-3. [Math Problem Generator](https://suanshu.streamlit.app/)
+2. [Class Schedule Processor (old)](https://atu-maps-class-schedule.streamlit.app/)
+3. [Class Schedule Processor](https://class-schedule-ai-deploy.onrender.com/)
+4. [Math Problem Generator](https://suanshu.streamlit.app/)
